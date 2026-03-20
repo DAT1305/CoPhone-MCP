@@ -1,0 +1,12 @@
+.codex/
+.toolchain/
+node_modules/
+runtime/
+.gradle/
+android/.gradle/
+android/.idea/
+android/.kotlin/
+android/local.properties
+android/**/build/
+*.iml
+*.log
